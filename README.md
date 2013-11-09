@@ -1,4 +1,4 @@
-xkcd12488
+xkcd1288
 =========
 
 As a Chrome Extension.
