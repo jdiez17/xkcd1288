@@ -1,4 +1,4 @@
-xkcd1288
+[xkcd1288](http://xkcd.com/1288)
 =========
 
 As a Chrome Extension.
