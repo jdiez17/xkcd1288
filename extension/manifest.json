@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "XKCD 1288",
+    "version": "1.0",
+    "description": "Implements http://xkcd.com/1288",
+    "content_scripts": [
+        {
+                "matches": ["*://*/*"],
+                "js": ["xkcd.js"],
+                "run_at": "document_end"
+        }
+    ]
+}
